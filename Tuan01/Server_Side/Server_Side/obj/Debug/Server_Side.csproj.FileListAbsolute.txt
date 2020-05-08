@@ -1,0 +1,6 @@
+D:\O_CUNG_CUA_PHAT\Code C#\TCPIP\Server_Side\Server_Side\bin\Debug\Server_Side.exe.config
+D:\O_CUNG_CUA_PHAT\Code C#\TCPIP\Server_Side\Server_Side\bin\Debug\Server_Side.exe
+D:\O_CUNG_CUA_PHAT\Code C#\TCPIP\Server_Side\Server_Side\bin\Debug\Server_Side.pdb
+D:\O_CUNG_CUA_PHAT\Code C#\TCPIP\Server_Side\Server_Side\obj\Debug\Server_Side.csprojAssemblyReference.cache
+D:\O_CUNG_CUA_PHAT\Code C#\TCPIP\Server_Side\Server_Side\obj\Debug\Server_Side.exe
+D:\O_CUNG_CUA_PHAT\Code C#\TCPIP\Server_Side\Server_Side\obj\Debug\Server_Side.pdb
