@@ -1,0 +1,5 @@
+T:\17031361_ChauTruongPhat\SendMessToActiveMQ\OperatorRequestObject\bin\Debug\OperatorRequestObject.dll
+T:\17031361_ChauTruongPhat\SendMessToActiveMQ\OperatorRequestObject\bin\Debug\OperatorRequestObject.pdb
+T:\17031361_ChauTruongPhat\SendMessToActiveMQ\OperatorRequestObject\obj\Debug\BussinessObject.csprojResolveAssemblyReference.cache
+T:\17031361_ChauTruongPhat\SendMessToActiveMQ\OperatorRequestObject\obj\Debug\OperatorRequestObject.dll
+T:\17031361_ChauTruongPhat\SendMessToActiveMQ\OperatorRequestObject\obj\Debug\OperatorRequestObject.pdb

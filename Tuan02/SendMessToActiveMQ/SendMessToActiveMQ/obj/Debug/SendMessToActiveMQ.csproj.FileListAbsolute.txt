@@ -1,0 +1,10 @@
+T:\17031361_ChauTruongPhat\SendMessToActiveMQ\SendMessToActiveMQ\bin\Debug\SendMessToActiveMQ.exe.config
+T:\17031361_ChauTruongPhat\SendMessToActiveMQ\SendMessToActiveMQ\bin\Debug\SendMessToActiveMQ.exe
+T:\17031361_ChauTruongPhat\SendMessToActiveMQ\SendMessToActiveMQ\bin\Debug\SendMessToActiveMQ.pdb
+T:\17031361_ChauTruongPhat\SendMessToActiveMQ\SendMessToActiveMQ\bin\Debug\Apache.NMS.ActiveMQ.dll
+T:\17031361_ChauTruongPhat\SendMessToActiveMQ\SendMessToActiveMQ\bin\Debug\Apache.NMS.dll
+T:\17031361_ChauTruongPhat\SendMessToActiveMQ\SendMessToActiveMQ\bin\Debug\OperatorRequestObject.dll
+T:\17031361_ChauTruongPhat\SendMessToActiveMQ\SendMessToActiveMQ\bin\Debug\OperatorRequestObject.pdb
+T:\17031361_ChauTruongPhat\SendMessToActiveMQ\SendMessToActiveMQ\obj\Debug\SendMessToActiveMQ.csprojResolveAssemblyReference.cache
+T:\17031361_ChauTruongPhat\SendMessToActiveMQ\SendMessToActiveMQ\obj\Debug\SendMessToActiveMQ.exe
+T:\17031361_ChauTruongPhat\SendMessToActiveMQ\SendMessToActiveMQ\obj\Debug\SendMessToActiveMQ.pdb

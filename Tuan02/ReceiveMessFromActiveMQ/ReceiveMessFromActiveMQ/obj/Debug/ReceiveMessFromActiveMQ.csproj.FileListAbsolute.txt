@@ -1,0 +1,8 @@
+T:\17031361_ChauTruongPhat\ReceiveMessFromActiveMQ\ReceiveMessFromActiveMQ\bin\Debug\ReceiveMessFromActiveMQ.exe.config
+T:\17031361_ChauTruongPhat\ReceiveMessFromActiveMQ\ReceiveMessFromActiveMQ\bin\Debug\ReceiveMessFromActiveMQ.exe
+T:\17031361_ChauTruongPhat\ReceiveMessFromActiveMQ\ReceiveMessFromActiveMQ\bin\Debug\ReceiveMessFromActiveMQ.pdb
+T:\17031361_ChauTruongPhat\ReceiveMessFromActiveMQ\ReceiveMessFromActiveMQ\bin\Debug\Apache.NMS.ActiveMQ.dll
+T:\17031361_ChauTruongPhat\ReceiveMessFromActiveMQ\ReceiveMessFromActiveMQ\bin\Debug\Apache.NMS.dll
+T:\17031361_ChauTruongPhat\ReceiveMessFromActiveMQ\ReceiveMessFromActiveMQ\obj\Debug\ReceiveMessFromActiveMQ.csprojResolveAssemblyReference.cache
+T:\17031361_ChauTruongPhat\ReceiveMessFromActiveMQ\ReceiveMessFromActiveMQ\obj\Debug\ReceiveMessFromActiveMQ.exe
+T:\17031361_ChauTruongPhat\ReceiveMessFromActiveMQ\ReceiveMessFromActiveMQ\obj\Debug\ReceiveMessFromActiveMQ.pdb
